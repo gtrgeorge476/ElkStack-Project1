@@ -127,8 +127,8 @@ TODO: In 1-2 sentences, explain what kind of data each beat collects, and provid
 Using the Playbook
 In order to use the playbook, you will need to have an Ansible control node already configured. Assuming you have such a control node provisioned:
 SSH into the control node and follow the steps below:
-Copy the _____ file to _____.
-Update the _____ file to include...
+Copy the _yml____ file to _ansible/roles____.
+Update the _config____ file to include...private IP address for Elk Stack server.
 Run the playbook, and navigate to _52.242.121.13 to check that the installation worked as expected.
 TODO: Answer the following questions to fill in the blanks:
 Which file is the playbook? Where do you copy it?
